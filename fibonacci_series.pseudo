@@ -1,0 +1,14 @@
+// code for fibonacci series
+n=int(input('enter the number of terms: '))
+x=0
+y=1
+if n==0:
+    print('ok, i wont print anything')
+elif n==1:
+    print(x)
+else:
+    for i in range(1,n+1) :
+        print(x)
+        z=x+y
+        x=y
+        y=z
