@@ -1,0 +1,8 @@
+// write a code to check if number is prime
+input: number1
+for each i from 2 to number-1
+if number1 mod i == 0
+    output: "Not Prime"
+    exit
+output: "Prime"if number mod i ==0
+
