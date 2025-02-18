@@ -1,5 +1,9 @@
 // writing a program to find factorial of a number
 x=int(input("Enter a number: "))
 i=1
-while i<=x:
+while i>1:
+i=x-1
+x=x*i
+endwhile
+print("Factorial of the number is: ",x)
     
