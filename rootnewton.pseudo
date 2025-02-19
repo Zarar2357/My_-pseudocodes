@@ -1,4 +1,4 @@
-// writing a pseudocode to find square root of a nubmer using newtons raphson's method
+// writing a pseudocode to find square root of a number using newtons raphson's method
 n=int(input('enter the number: '))
 x=n/2
 p=round(x)
