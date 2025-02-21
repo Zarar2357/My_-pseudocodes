@@ -1,6 +1,7 @@
 // write a code to check if number is prime
 input: number1
-for each i from 2 to number-1
+n=round(sqrt(number1))
+for each i from 2 to n
 if number1 mod i == 0
     output: "Not Prime"
     exit
