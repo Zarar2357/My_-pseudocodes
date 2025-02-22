@@ -1,5 +1,5 @@
-// writing a pseudocode to find square root of a number using newtons raphson's method
-//tolerence is up to three decimal places
+# writing a pseudocode to find square root of a number using newtons raphson's method
+# tolerence is up to three decimal places
 n=int(input('enter the number: '))
 x=n/2
 p=round(x)
