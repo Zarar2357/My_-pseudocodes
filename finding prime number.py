@@ -1,4 +1,4 @@
-// write a code to check if number is prime
+# write a code to check if number is prime
 input: number1
 n=round(sqrt(number1))
 for i in range(2,n+1):
