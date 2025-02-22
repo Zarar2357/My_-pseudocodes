@@ -1,4 +1,4 @@
-// checking if a number is prime or not, algorithm was suggested by "amaan-123"
+# checking if a number is prime or not, algorithm was suggested by "amaan-123"
 x=float(input('enter a number:'))
 if x==0 or x==1:
     print(x ,'is neither prime nor composite')
