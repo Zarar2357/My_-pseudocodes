@@ -1,4 +1,4 @@
-// code for fibonacci series
+# code for fibonacci series
 n=int(input('enter the number of terms: '))
 x=0
 y=1
