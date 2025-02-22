@@ -12,7 +12,7 @@ elif x%2==0 or x%3==0:
 else:
     from math import sqrt
     n=round(sqrt(x))
-    for i in range(3,n,2):
+    for i in range(3,n+1,2):
         if x%i==0:
             print(x,' is not prime')
             exit()
