@@ -1,4 +1,4 @@
-// writing a program to find maximum of three numbers
+# writing a program to find maximum of three numbers
 a=input("Enter the first number: ")
 b=input("Enter the second number: ")
 c=input("Enter the third number: ")
